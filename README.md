@@ -1,8 +1,9 @@
-# Pokémon Battle Simulator on NUC140
+# Pok-mon-Themed-Embedded-System-Game
+
 
 ## Project Overview
 
-This project demonstrates a **timer-controlled LED management system** with a Pokémon battle simulation using the **NUC140 Series Microcontroller**. It includes real-time interactions via keypad inputs and graphical outputs on an LCD screen, making it both an embedded systems project and an interactive game simulation.
+This project demonstrates a **Pok-mon-Themed-Embedded-System-Game** with a Pokémon battle simulation using the **NUC140 Series Microcontroller**. It includes real-time interactions via keypad inputs and graphical outputs on an LCD screen, making it both an embedded systems project and an interactive game simulation.
 
 ---
 **Demo Video**  
@@ -11,7 +12,7 @@ Watch the demonstration of this project on [YouTube](https://www.youtube.com/wat
 ## Features
 
 ### Core Functionalities
-- **Timer-Based LED Control**
+- **Timer-Based Control**
   - Uses **Timer1 interrupts** to display dynamic battle countdowns and graphical effects.
   
 - **Pokémon Battle Simulation**
@@ -38,7 +39,7 @@ Watch the demonstration of this project on [YouTube](https://www.youtube.com/wat
   - Separate functions handle key game actions such as attacking and graphical rendering.
 
 ### Key Modules
-- **GPIO Initialization**: Configures output pins for LED control and input pins for the keypad.
+- **GPIO Initialization**: Configures output pins for control and input pins for the keypad.
 - **Timer Management**:
   - **Timer0**: Handles battle countdown and turn switching.
   - **Timer1**: Drives periodic updates, such as move animations and status displays.
