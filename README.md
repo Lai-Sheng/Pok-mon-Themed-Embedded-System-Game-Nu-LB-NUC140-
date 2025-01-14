@@ -1,4 +1,4 @@
-# Pok-mon-Themed-Embedded-System-Game
+# Pok-mon-Themed-Embedded-System-Game(Nu-LB-NUC140)
 
 
 ## Project Overview
