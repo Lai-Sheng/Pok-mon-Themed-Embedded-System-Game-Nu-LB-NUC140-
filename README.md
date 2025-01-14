@@ -5,6 +5,8 @@
 This project demonstrates a **timer-controlled LED management system** with a Pokémon battle simulation using the **NUC100 Series Microcontroller**. It includes real-time interactions via keypad inputs and graphical outputs on an LCD screen, making it both an embedded systems project and an interactive game simulation.
 
 ---
+**Demo Video**  
+Watch the demonstration of this project on [YouTube](https://www.youtube.com/watch?v=9VVDpm9JCD0).
 
 ## Features
 
