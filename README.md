@@ -1,9 +1,6 @@
-# Pok-mon-Themed-Embedded-System-Game(Nu-LB-NUC140)
-
-
 ## Project Overview
 
-This project demonstrates a **Pok-mon-Themed-Embedded-System-Game** with a Pokémon battle simulation using the **NUC140 Series Microcontroller**. It includes real-time interactions via keypad inputs and graphical outputs on an LCD screen, making it both an embedded systems project and an interactive game simulation.
+This project demonstrates a **Pokémon-Themed-Embedded-System-Game** with a Pokémon battle simulation using the **NUC140 Series Microcontroller**. It includes real-time interactions via keypad inputs and graphical outputs on an LCD screen, making it both an embedded systems project and an interactive game simulation.
 
 ---
 **Demo Video**  
@@ -107,7 +104,9 @@ Watch the demonstration of this project on [YouTube](https://www.youtube.com/wat
 
 ---
 
-
 **Note**  
 This project was part of the "Microprocessor" course taught by Professor Yi-Wen Wang in the Department of Computer Science and Information Engineering at Feng Chia University. The project received a perfect score.
+
+**Disclaimer**  
+Many of the libraries and `MCU_init.h` used in this project are provided by **NUVOTON**. I do not own their copyrights. My development is based on these provided libraries.
 
